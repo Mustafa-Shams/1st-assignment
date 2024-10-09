@@ -1,0 +1,48 @@
+.h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 45px;
+    text-decoration: double underline;
+}
+
+.p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.Link{
+     text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding-left: 595px;
+    font-size: 30px;
+}
+
+.links{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding-left: 627px;
+    font-size: 30px;
+}
+
+
+.linkss{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding-left: 617px;
+    font-size: 30px;
+   
+}
+
+.linksss{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding-left: 613px;
+    font-size: 30px;
+    
+}
